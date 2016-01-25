@@ -1,0 +1,6 @@
+Wed Feb  6 13:41:52 2013	
+----------------------
+Project: .
+Wed Feb  6 13:41:52 2013	---
+Wed Feb  6 13:41:52 2013	Reading input file:
+Wed Feb  6 13:41:52 2013	kb_kD file cannot open.

@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040D0FF
+eax=00000000 ebx=00285A68 ecx=00000000 edx=002835A8 esi=00000004 edi=00000010
+ebp=FFEACDB8 esp=FFEACC30 program=C:\cygwin\home\ss435\form\form.exe, pid 7140, thread unknown (0xC04)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
